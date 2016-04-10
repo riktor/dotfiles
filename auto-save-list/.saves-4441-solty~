@@ -1,0 +1,10 @@
+/home/riktor/.ssh/config
+/home/riktor/.ssh/#config#
+/etc/X11/xinit/xinitrc
+/etc/X11/xinit/#xinitrc#
+/etc/UPower/UPower.conf
+/etc/UPower/#UPower.conf#
+/sudo:root@solty:/usr/lib/systemd/system/kbdrate.service
+#_asudo_broot@solty_b_ausr_alib_asystemd_asystem_akbdrate.service#
+/home/riktor/.stumpwmrc
+/home/riktor/#.stumpwmrc#

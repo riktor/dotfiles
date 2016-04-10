@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: figure
+# key: fig
+# --
+#+BEGIN_SRC ipython :session :file /tmp/$1.png :exports both
+  $0
+#+END_SRC

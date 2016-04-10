@@ -1,0 +1,73 @@
+sudo pacman -S mozc
+sudo pacman -S mozc-im
+sudo pacman -S ibus-mozc
+sudo pacman -S emacs-mozc
+ls
+ls -a
+less .git/
+cd ../../
+ls
+cd codes/
+ls
+cd .././.
+cd ../../Downloads/
+ls
+tar xzfv cimt.tar.gz 
+cd cimt/
+ls
+cd sampleJ/
+ls
+cd ../
+ls
+cd ../
+rm -f ../Documents/docs/thesis/
+rm -rf ../Documents/docs/thesis/
+mv cimt/ ../Documents/docs/thesis
+cd ../Documents/docs/thesis/
+ls
+ls
+cd sampleJ/
+ls
+sudo pip install chardet
+import chardet
+ls
+cd ../Downloads/
+cd ../
+cd Documents/codes/scala/
+ls
+cd tethys/
+ls
+sbt
+sudo pacman -S sbt
+sbt
+ls
+mv gs-crawl.lisp ../
+ls
+cd ../
+ls
+mkdir gs-crawl
+mv gs-crawl.lisp  gs-crawl/.
+cp ../proxies.list gs-crawl/.
+ls
+ls
+ls
+cd thesis/
+ls
+ls
+ls
+ls
+sudo pacman -S fuse-sshfs
+ls
+cd Downloads/
+ls
+pacman -Syu
+sudo pacman -Syu
+ls
+ls
+ls
+ls
+ls
+cd Ricty-4.0.0/
+ls
+cd misc/
+ls
